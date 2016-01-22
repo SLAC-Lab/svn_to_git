@@ -1,0 +1,11 @@
+user:
+  NAME: "yournamehere"
+  TOKEN: "personal access token"
+  PASS: "yourstrongpass"
+  ORG: "Org Name"
+paths:
+  BASE_URL: "https://github.com/yourorg"
+  HOST: "github.com/yourorg"
+misc:
+  DESC: "Wordy explanation"
+  TEAM: "Team"
